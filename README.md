@@ -1,5 +1,5 @@
 # pfs-paranoid
-PFsense plugin to receive login alerts
+PFsense plugin to receive login alerts (SSH/Web GUI)
 
 ## How does it work ? 
 
