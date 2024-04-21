@@ -27,4 +27,4 @@ https://pfsense.local/packages/paranoid/paranoid.php
 
 # Todo
 
-Refactor the project and standardize if for PfSense and create a FreeBSD package
+Refactor the project to standardize it for pfSense and create a FreeBSD package.
