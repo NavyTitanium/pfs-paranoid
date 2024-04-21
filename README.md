@@ -21,6 +21,8 @@ Those settings are defined beforehand by the administrator in: System -> Advance
 **paranoid.php**, **paranoid.inc** and **insert.php** goes in `/usr/local/www/packages/paranoid/`
 ## Interface
 
+https://pfsense.local/packages/paranoid/paranoid.php
+
 ![paranoid.php](Paranoid-Status_Login-monitor.png)
 
 # Todo
